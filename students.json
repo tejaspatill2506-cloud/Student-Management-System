@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "101",
+        "name": "tejas",
+        "age": "22",
+        "course": "bca"
+    },
+    {
+        "student_id": "102",
+        "name": "shubham",
+        "age": "25",
+        "course": "b-tech"
+    }
+]
